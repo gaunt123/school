@@ -8,6 +8,7 @@
     width: 120px;
     z-index: 2;
     border: none; outline: none;
+    color: white;
     background-color: rgba(28,28,28,0);
 }
 .rectangle{
